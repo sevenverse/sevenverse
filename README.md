@@ -26,12 +26,10 @@ Drinking coffee on a ceramic cup, while inside an air-conditioned room... is not
 
 **How can I fix this?**
 As a Product Manager, my goal is to make something that eliminates the problem while generating revenue. 
-
--- I can go ahead and experiment with materials that transfer heat equally from the sides so that the coffee cools evenly. 
+-- I can go ahead and experiment with materials that transfer heat equally from the sides so that the coffee cools evenly.
 -- I can invent a lid that reduces the heat loss from the surface so that the coffee stays evenly warm. 
 
-As a Sustainable Product Manager, my goal is to eliminate the problem and generate revenue by providing a solution, while ensuring the solution does not eliminate something good on the way before we can measure the true consequences of the change. 
-
+As a Sustainable Product Manager, my goal is to eliminate the problem and generate revenue by providing a solution, while ensuring the solution does not eliminate something good on the way before we can measure the true consequences of the change.
 -- So, I would make a stirrer that can go with an existing ceramic cup. You clean the stirrer with the cup, and store it with the cup. 
 
 Not a groundbreaking invention. Not flashy. But something that works. 
